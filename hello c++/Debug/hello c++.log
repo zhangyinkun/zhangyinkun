@@ -1,0 +1,20 @@
+﻿生成启动时间为 2013/9/23 18:20:35。
+     1>项目“c:\Users\zyk\documents\visual studio 2010\Projects\hello c++\hello c++\hello c++.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\hello c++.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Hello C++.cpp"
+         Hello C++.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\zyk\documents\visual studio 2010\Projects\hello c++\Debug\hello c++.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\hello c++.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\zyk\documents\visual studio 2010\Projects\hello c++\Debug\hello c++.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\zyk\documents\visual studio 2010\Projects\hello c++\Debug\hello c++.lib" /MACHINE:X86 "Debug\Hello C++.obj"
+         hello c++.vcxproj -> c:\users\zyk\documents\visual studio 2010\Projects\hello c++\Debug\hello c++.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\zyk\documents\visual studio 2010\Projects\hello c++\Debug\hello c++.exe;#1" /manifest "Debug\hello c++.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\hello c++.unsuccessfulbuild”。
+         正在对“Debug\hello c++.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“c:\Users\zyk\documents\visual studio 2010\Projects\hello c++\hello c++\hello c++.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.23
